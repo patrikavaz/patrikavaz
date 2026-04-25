@@ -30,8 +30,8 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <a href="https://github.com/iwh3n" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php,python,fastapi,js,mysql,git,linux,burpsuite,wireshark" />
+  <a href="https://github.com/patrikavaz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php,python,js,mysql,linux" />
   </a>
 </p>
 
@@ -43,7 +43,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patrikavaz&theme=radical&show_icons=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patrikavaz&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patrikavaz&theme=tokyonight" />
-</p>
